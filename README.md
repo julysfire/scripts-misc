@@ -8,3 +8,7 @@ I was having troubles where my Pi for occassionaly go offline for no reason and 
 ### ValheimBackup.ps1
 
 A quick script to backup your Valheim character saves and worlds.  Very useful for a one click backup if you are using any mods and want to be save with your world and characters.
+
+### RecycleBinClear.bat
+
+A very quick bat file that I bind to my keyboard for quickly emptying the reycle bin because I like to keep it nice and tidy.
