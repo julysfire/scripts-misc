@@ -12,3 +12,7 @@ A quick script to backup your Valheim character saves and worlds.  Very useful f
 ### RecycleBinClear.bat
 
 A very quick bat file that I bind to my keyboard for quickly emptying the reycle bin because I like to keep it nice and tidy.
+
+### universesandbox.bat
+
+There are some achievements for the original Universe Sandbox game that require you to open the game x amount of times where the highest achievement is 10000 times.  This script will continously open and close the game making the achievement significantly easier to get.
