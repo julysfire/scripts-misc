@@ -11,18 +11,8 @@ Previouskey:= !PreviousKey
 Loop{
 	if PreviousKey
 	{
-		;Shoot for 20 seconds
-		start_time:= A_TickCount
-		time_to_run:=20000
-		end_time:=start_time + time_to_run
-			
-		;Main loop
-		while (A_TickCount < end_time)
-		{
-			Send {Down down}{Left down}
-			sleep, 50
-			
-		}
+		Send {Down down}{Left down}
+		Sleep, 20000
 		
 		;Release key
 		Send {Down up}{Left up}
@@ -36,11 +26,11 @@ Loop{
 		Send {Space down}
 		sleep, 50
 		Send {Space up}
-		sleep, 1000
+		sleep, 4000
+		
 		Send {Space down}
 		sleep, 50
 		Send {Space up}
-		sleep, 100
 	}
 	else
 	break
