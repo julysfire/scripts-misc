@@ -15,4 +15,4 @@ A very quick bat file that I bind to my keyboard for quickly emptying the reycle
 
 ### universesandbox.bat
 
-There are some achievements for the original Universe Sandbox game that require you to open the game x amount of times where the highest achievement is 10000 times.  This script will continously open and close the game making the achievement significantly easier to get.
+There are some achievements for the original Universe Sandbox game that require you to open the game x amount of times where the highest achievement is 10000 times.  This script will continously open and close the game making the achievement significantly easier to get.  The start path will need to be updated to where you have Universe Sandbox installed.
