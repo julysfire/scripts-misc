@@ -21,6 +21,6 @@ There are some achievements for the original Universe Sandbox game that require 
 
 Great for games that require you to walk a certain amount of steps or a certain distance, this will walk you back and forth endlessly.  Press space to start the loop and then space again to end it.
 
-### house_flipper_2_painter.ahk
+### house_flipper_2_painting.ahk
 
 There is an achievement in House Flipper 2 that requires you to paint a certain amount of sistance.  This will click and hold the paint roller to the wall and then move it back and forth endlessly.  Press space to start the loop and then space again to end it.
